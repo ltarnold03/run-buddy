@@ -265,6 +265,7 @@ button {
 .contact {
     text-align: center;
     background-color: #024e76;
+    
 }
 
 .contact h2 {
@@ -273,7 +274,7 @@ button {
 
 .contact-info iframe {
     width: 400px;
-    height: 400px;
+    height: 400px;   
 }
 
 .contact-info div {
@@ -295,6 +296,7 @@ button {
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+    color: white;
 }
 
 .contact-info a {
